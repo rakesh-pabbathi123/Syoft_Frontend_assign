@@ -1,4 +1,6 @@
 # Developed by: Rakesh
+# Here is the deploy link for the Syoft Frontend Assignment: https://syoft-frontend-assign.onrender.com
+# Here is the demo video drive link: https://drive.google.com/file/d/1VQvPi4ND2o-fcEIaLdKOEQRSFzDf_WlG/view?usp=sharing
 # User SignUp and Login Application
 
 ### Task Overview
